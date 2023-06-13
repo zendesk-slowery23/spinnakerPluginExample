@@ -8,7 +8,7 @@
         "version": "0.0.3",
         "date": "2023-06-13T03:48:58.698202Z",
         "requires": "echo>=0.0.0,orca>=0.0.0,deck>=0.0.0",
-        "sha512sum": "09a20dfcff5bd66df1b2cba9a5aeeca232c92249dd46c89e6a2c905c11193742ced183b909df7ab8917e0718e3067e3076911519c52eae552aebb57b97e7bd7f",
+        "sha512sum": "7e61c911951e15475f29a70d523298c77de40c58a2affa95631b80ce50696272ae559295ae25f831e9451193d4c2e9b1686c43d170421f9aeb5a381f54befd13",
         "preferred": false,
         "compatibility": [],
         "url": "https://github.com/zendesk-slowery23/spinnakerPluginExample/releases/download/v0.0.3/spinnakerPluginExample-0.0.3.zip"

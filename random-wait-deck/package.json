@@ -12,7 +12,8 @@
     "proxy": "dev-proxy",
     "develop": "npm run clean && run-p watch proxy",
     "prettier": "prettier --write 'src/**/*.{js,jsx,ts,tsx,html,css,less,json}'",
-    "lint": "eslint --ext js,jsx,ts,tsx src"
+    "lint": "eslint --ext js,jsx,ts,tsx src",
+    "prepare": "husky-install"
   },
   "dependencies": {
     "@spinnaker/amazon": "0.0.262",
